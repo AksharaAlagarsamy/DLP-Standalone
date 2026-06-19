@@ -1,0 +1,6 @@
+{
+    "Public": "ALLOW",
+    "Internal": "ALLOW",
+    "Confidential": "WARN",
+    "Restricted": "QUARANTINE"
+}
